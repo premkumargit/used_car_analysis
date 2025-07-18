@@ -62,7 +62,7 @@ To predict an optimal price for each vehicle, the project uses **Ridge Regressio
 - **Programming Language**: Python  
 - **Libraries**: pandas, numpy, scikit-learn, matplotlib, seaborn  
 - **Modeling Techniques**: Linear Regression, Ridge Regression, KMeans Clustering, SelectKBest  
-- **Environment**: Jupyter Notebook / VS Code
+- **Environment**: Jupyter Notebook
 
 ## 📥 Installation
 
@@ -70,13 +70,6 @@ To predict an optimal price for each vehicle, the project uses **Ridge Regressio
    ```bash
    git clone https://github.com/your-username/used-car-price-analysis.git
    cd used-car-price-analysis
-   ```
-
-2. Create a virtual environment and install dependencies:
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
-   pip install -r requirements.txt
    ```
 
 ## 🚀 Usage
