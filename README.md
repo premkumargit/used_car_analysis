@@ -24,10 +24,12 @@ The provided dataset contains information on approximately **426,000 used cars**
 - **Year**: The dataset spans **122 distinct model years**. The **most recent 50 years (1970–2022)** account for **99%** of the data. Therefore, only records from the last 50 years are used for Exploratory Data Analysis (EDA) to maintain relevance and data density.
 
 <p float="left">
-    <img src="/images/State_SoldCars.png" width="550" height="450"> <img src="/images/Manu_SoldCars.png" width="550" height="450"> 
+    <img src="/images/State_SoldCars.png" width="45%"> 
+    <img src="/images/Manu_SoldCars.png" width="45%"> 
 </p>    
 <p float="left">
-    <img src="/images/Year_SoldCars.png" width="550" height="450"> <img src="/images/Price_SoldCars.png" width="550" height="450">
+    <img src="/images/Year_SoldCars.png" width="45%"> 
+    <img src="/images/Price_SoldCars.png" width="45%">
 </p>    
 
 
