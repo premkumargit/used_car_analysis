@@ -86,20 +86,9 @@ To predict an optimal price for each vehicle, the project uses **Ridge Regressio
 
 ## 🚀 Usage
 
-1. Load the dataset into `used_car_analysis.ipynb`.
+1. Load the dataset into `prompt_II1.ipynb`.
 2. Run cells sequentially to:
    - Clean and preprocess data
    - Perform exploratory data analysis (EDA)
    - Train and evaluate models
    - Generate recommendation scores and price predictions
-
-
-## 📄 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
-## 💡 Future Enhancements
-
-- Add a web dashboard for real-time dealership recommendations  
-- Integrate external data sources such as interest rates, seasonal demand, and economic indicators  
-- Improve price prediction accuracy using ensemble or deep learning models
