@@ -23,9 +23,14 @@ The provided dataset contains information on approximately **426,000 used cars**
 
 - **Year**: The dataset spans **122 distinct model years**. The **most recent 50 years (1970–2022)** account for **99%** of the data. Therefore, only records from the last 50 years are used for Exploratory Data Analysis (EDA) to maintain relevance and data density.
 
+<img src="/images/State_SoldCars.png" width="550" height="450"> <img src="/images/Manu_SoldCars.png" width="550" height="450"> 
+<img src="/images/Year_SoldCars.png" width="550" height="450"> <img src="/images/Price_SoldCars.png" width="550" height="450">
+
+
 ### Feature Engineering Note
 
 - **Price**: The `price` feature is **heavily right-skewed**, which can negatively impact model performance. To normalize the distribution and stabilize variance, the **square root transformation (`sqrt(price)`)** is applied during modeling.
+
 
 ## 📌 Key Findings
 
@@ -68,7 +73,7 @@ To predict an optimal price for each vehicle, the project uses **Ridge Regressio
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/used-car-price-analysis.git
+   git clone https://github.dev/premkumargit/used_car_analysis.git
    cd used-car-price-analysis
    ```
 
@@ -81,9 +86,6 @@ To predict an optimal price for each vehicle, the project uses **Ridge Regressio
    - Train and evaluate models
    - Generate recommendation scores and price predictions
 
-## 👤 Author
-
-- **Lakshmi Rangarajan**
 
 ## 📄 License
 
